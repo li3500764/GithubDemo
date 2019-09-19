@@ -6,7 +6,7 @@ public class Dome1 {
 		String a=new String("hello");
 		String b=a.toUpperCase();
 		String c=a.toLowerCase();
-		System.out.println(b);
+		System.out.println("aaaaaa");
 		System.out.println(c);
 	}
 
